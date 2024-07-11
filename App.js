@@ -2,14 +2,14 @@ import "react-native-gesture-handler";
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
-import { createStackNavigator } from "@react-navigation/stack";
+import { createNativeStackNavigator } from "@react-navigation/native-stack";
 
 import CategoriesScreen from "./screens/CategoriesScreen";
 import MealsOverviewScreen from "./screens/MealsOverviewScreen";
 import MealDetailScreen from "./screens/MealsDetails";
 
 export default function App() {
-  const Stack = createStackNavigator();
+  const Stack = createNativeStackNavigator();
   return (
     <>
       <StatusBar style="dark" />
