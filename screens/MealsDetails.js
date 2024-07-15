@@ -1,5 +1,5 @@
 import { Image, Text, View, StyleSheet, ScrollView } from "react-native";
-import { useContext, useLayoutEffect, useContext } from "react";
+import { useContext, useLayoutEffect } from "react";
 
 import { MEALS } from "../data/dummy-data";
 import MealDetail from "../components/MealDetails";
