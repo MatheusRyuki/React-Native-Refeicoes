@@ -1,6 +1,4 @@
-# React-Native-Refeicoes
-
-Projeto React-Native: Revisão e Aplicação de Conceitos
+# Projeto React-Native: Revisão e Aplicação de Conceitos
 Este repositório contém um projeto desenvolvido em React-Native para revisar e aplicar conceitos fundamentais e avançados da tecnologia. O foco foi atualizar meus conhecimentos e testar novas técnicas para melhorar o desenvolvimento de aplicativos móveis.
 
 🚀 Conceitos Abordados:
