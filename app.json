@@ -26,6 +26,21 @@
     },
     "plugins": [
       "expo-router"
-    ]
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "177d1f2f-998d-494d-b6de-406a27aca066"
+      }
+    },
+    "owner": "ryukikaiya",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/177d1f2f-998d-494d-b6de-406a27aca066"
+    }
   }
 }
